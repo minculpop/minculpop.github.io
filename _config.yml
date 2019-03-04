@@ -1,0 +1,24 @@
+
+title: minculpop.it
+# email: posta@minculpop.it
+# description:
+
+baseurl: ""
+url: "https://minculpop.it"
+
+# twitter_username:
+# github_username:
+
+
+# markdown: kramdown
+# theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+#  - jekyll-redirect-from
+#  - jekyll-avatar
+#  - jemoji
+#  - jekyll-mentions
+#  - jekyll-include-cache
