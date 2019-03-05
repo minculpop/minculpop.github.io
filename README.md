@@ -1,2 +1,6 @@
 # minculpop.github.io
-Sito minculpop.it
+
+
+```shell
+bundle exec jekyll serve
+```
