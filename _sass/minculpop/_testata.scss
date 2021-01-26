@@ -5,7 +5,10 @@ div.testata {
     
     h1 {
         font-weight: 900;
-        // font-size: 48pt;
+        font-size: ($u * 4) / 1.42;
+        line-height: $u * 4;
+        margin: 0;
+        padding: 0;
     }
 
 }
