@@ -4,9 +4,14 @@
 // $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-family: "Bodoni 16", serif;
 
+$u: 24px;
+
 body {
   font-family: $base-font-family;
+  font-size: $u / 1.42;
+  line-height: $u;
 }
+
 
 @import
   "minculpop/testata";
